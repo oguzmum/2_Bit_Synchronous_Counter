@@ -38,3 +38,7 @@ From this table, the toggle logic simplifies to:
 ![Breadboard build](images/2-bit-synch-count-breadboard.JPG)
 
 ## Video Demonstration
+
+The video is in german though :D
+
+https://github.com/user-attachments/assets/afa24d36-d332-4ab0-8f54-7c440c0792ee
